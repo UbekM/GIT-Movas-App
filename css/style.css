@@ -1,0 +1,110 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navigation-section{
+   height: 100%;
+   padding: 20px 40px;
+}
+
+.jumbotron {
+    background-color: #081f5c;
+    color: #fff;
+    padding: 80px 0px;
+}
+
+.nav-background {
+    background-color: #7096D1;
+    color: #fff;
+}
+
+.app-description {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.botton-download{
+    background-color:#7096D1;
+    color: #f8f9fa;
+    padding: 10px;
+    width: 150px;
+    margin-bottom: 40px;
+    border: none;
+}
+
+.botton-download-2{
+    background-color:#081f5c;
+    color: #f8f9fa;
+    padding: 10px;
+    width: 150px;
+    margin-bottom: 40px;
+    border: none;
+}
+
+.card-img{
+    max-width: 200px;
+    max-height: 200px;
+    min-height: 200px;
+    padding-top: 20px;
+}
+
+.feature-cards {
+    padding: 40px 20px;
+    background-color: #fff;
+}
+
+.hero-image{
+    max-height: 500px;
+    max-width: 300px;
+}
+
+.download-button {
+    text-align: center;
+    margin-top: 20px;
+    padding: 70px;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+
+.nav-onepage{
+    background-color: black;
+    color: #fff;
+}
+
+.hero{
+background-image: url("/img/Goals_copy_high.jpg");
+background-repeat: no-repeat;
+background-position: center;
+height: 50vh;
+
+}
+
+.col-bg{
+    background-color: red;
+    border: rgb(26, 24, 22);
+    border:2px;
+}
+
+
+
+
+/*Booststrap CSS overwrite*/
+
+nav{
+color:#fff;
+}
+
+.navbar-nav a{
+    color: #fff;
+}
+
+.navbar-nav a:hover{
+    color: #fff;
+}
