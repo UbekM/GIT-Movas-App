@@ -10,12 +10,12 @@ body {
 .jumbotron {
     background-color: #081f5c;
     color: #fff;
-    padding: 80px 0px;
+    /* padding: 80px 0px; */
 }
 
 .nav-background {
-    background-color: #7096D1;
-    color: #fff;
+    background-color: #D0E3FF;
+    padding: 80px 0px;
 }
 
 .app-description {
@@ -24,8 +24,8 @@ body {
 }
 
 .botton-download{
-    background-color:#7096D1;
-    color: #f8f9fa;
+    background-color:#081f5c;
+    color: #fFF;
     padding: 10px;
     width: 150px;
     margin-bottom: 40px;
@@ -34,11 +34,16 @@ body {
 
 .botton-download-2{
     background-color:#081f5c;
-    color: #f8f9fa;
+    color: #fFF;
     padding: 10px;
     width: 150px;
     margin-bottom: 40px;
     border: none;
+}
+
+.background {
+    background-color: #f2f0DE;
+    padding: 40px 0px;
 }
 
 .card-img{
@@ -65,8 +70,8 @@ body {
 }
 
 .footer {
-    background-color: #343a40;
-    color: #fff;
+    background-color: #081f5c;
+    color: #D0E3FF;
     padding: 20px 0;
     text-align: center;
 }
