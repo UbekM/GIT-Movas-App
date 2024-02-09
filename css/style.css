@@ -14,7 +14,8 @@ body {
 }
 
 .nav-background {
-    background-color: #D0E3FF;
+    background-color: #7096D1;
+    color: #000;
     padding: 80px 0px;
 }
 
@@ -75,8 +76,6 @@ body {
     padding: 20px 0;
     text-align: center;
 }
-
-
 
 .nav-onepage{
     background-color: black;
